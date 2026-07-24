@@ -1,4 +1,4 @@
-# CallOrMessage App 📞📲
+# CallOrMessage App 
 An Android application that allows users to make phone calls and send SMS messages using implicit intents.
 This project was built to practice Android intent system and runtime permission handling.
 ---
